@@ -86,5 +86,4 @@ ELSE
 dbms_output.put_line('Your balance is Rs. '||xact_balance );
 END IF;
     
-  
 END;
